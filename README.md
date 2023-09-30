@@ -5,23 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=numanrazzaq" alt="numanrazzaq" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/numanrazzaq13" target="blank"><img src="https://img.shields.io/twitter/follow/numanrazzaq13?logo=twitter&style=for-the-badge" alt="numanrazzaq13" /></a> </p>
 
-- 🔭 I’m currently working on **Flask and Django framweworks**
+- 🔭 I’m currently working on **MERN Stack Development**
 
-- 🌱 I’m currently learning **Android Development with kotlin**
+- 🌱 I’m currently learning **MERN Stack Development**
 
-- 💬 Ask me about **Python, Java and C++**
+- 💬 Ask me about **Node.js, React.js, JavaScript,Python and C++**
 
-- 📫 How to reach me **numanrazzaq350@gmail.com**
+- 📫 How to reach me **numaan.razaq@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/numanrazzaq13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="numanrazzaq13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/numan-razzaq-5b90131a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="numan-razzaq-5b90131a1" height="30" width="40" /></a>
-<a href="https://fb.com/numanrazzaq012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="numanrazzaq012" height="30" width="40" /></a>
-<a href="https://instagram.com/numan.mughal22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="numan.mughal22" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/numanrazzaq350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="numanrazzaq350" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/numan-razzaq-5b90131a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="numan-razzaq-5b90131a1" height="30" width="40" /></a>>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
