@@ -6,11 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=numanrazzaq" alt="numanrazzaq" /></a> </p>
 
 
-- 🔭 I’m currently working on **MERN Stack Development**
+- 🔭 I’m currently working on **Frontend Development**
 
-- 🌱 I’m currently learning **MERN Stack Development**
-
-- 💬 Ask me about **Node.js, React.js, JavaScript,Python and C++**
+- 💬 Ask me about **React.js, JavaScript, TypeScript and Node.js**
 
 - 📫 How to reach me **numaan.razaq@gmail.com**
 
